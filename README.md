@@ -15,4 +15,6 @@ This project documents testing whether a file can be retrieved from a Windows ho
 ## Phase 1
 Network-level analysis of file retrieval possibilities when SMB port is filtered.
 
-Phase 2 will include reverse shell testing.
+##Phase 2 
+
+Includes reverse shell testing.
