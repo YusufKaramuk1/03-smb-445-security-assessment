@@ -8,7 +8,7 @@ This project documents testing whether a file can be retrieved from a Windows ho
 
 ## Lab Setup
 - Attacker: Kali Linux
-- Target: Windows 10/11
+- Target: Windows 11
 - Network: VirtualBox Internal Network
 - Firewall: Enabled
 
