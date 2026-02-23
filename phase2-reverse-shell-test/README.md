@@ -17,7 +17,7 @@ Phase 1 showed that **inbound access** to common services on the Windows host (e
 | Role | OS / Hostname | IP Address | Notes |
 |------|----------------|------------|------|
 | Attacker | Kali Linux | `192.168.56.10` | Metasploit Framework + local HTTP server |
-| Victim | Windows 10 (EVAL) | `192.168.56.11` | Windows Firewall enabled, inbound filtered |
+| Victim | Windows 11 (EVAL) | `192.168.56.11` | Windows Firewall enabled, inbound filtered |
 | Network | VirtualBox Host-Only | `192.168.56.0/24` | Offline / isolated segment |
 
 ---
